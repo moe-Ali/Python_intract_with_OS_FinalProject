@@ -7,11 +7,11 @@
   
 ## To run the script use:
 ```
-chmod +x main.py
-./main.py
+chmod +x final.py
+./final.py
 ```
 or specify syslog file location
 ```
-chmod +x main.py
-./main.py {syslog file path}
+chmod +x final.py
+./final.py {syslog file path}
 ```
