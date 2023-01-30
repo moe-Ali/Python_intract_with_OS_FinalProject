@@ -10,7 +10,7 @@
 chmod +x main.py
 ./main.py
 ```
-## or you can specify syslog file location
+### or specify syslog file location
 ```
 chmod +x main.py
 ./main.py {syslog file path}
